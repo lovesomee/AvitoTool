@@ -1,0 +1,9 @@
+.idea/
+config/*.json
+service_account.json
+
+# Go
+bin/
+*.exe
+*.test
+*.out
